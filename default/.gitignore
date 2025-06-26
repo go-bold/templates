@@ -1,1 +1,4 @@
 .env
+storage/logs/*
+storage/tmp/*
+storage/uploads/*
